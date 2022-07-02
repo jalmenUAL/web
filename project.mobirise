@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "JESUS ALMENDROS",
-    "currentPage": "Main.html",
+    "currentPage": "Research.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -42,9 +42,9 @@
     "noImageResize": "",
     "сanonical-url": "",
     "uniqCompNum": 65,
-    "versionPublish": "5.6.5",
+    "versionPublish": "5.6.11",
     "screenshot": "screenshot.png",
-    "canonical-url": false,
+    "canonical-url": "",
     "imageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,

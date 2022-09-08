@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "JESUS ALMENDROS",
-    "currentPage": "Research.html",
+    "currentPage": "Tools.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -53,7 +53,11 @@
     "cookiesAlert": false,
     "gdpr": false,
     "mbrsiteDomain": "gsijmsjolj",
-    "publishChangesOnly": false
+    "publishChangesOnly": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
+    "gitHubName": "jalmenUAL",
+    "gitHubPath": "web"
   },
   "pages": {
     "Tools.html": {
